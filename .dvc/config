@@ -1,0 +1,5 @@
+[core]
+    remote = dvc_testing
+['remote "dvc_testing"']
+    url = gdrive://1l3XPj35fK1tvoBAEWUMAmXQ-in5ji0j7
+    gdrive_acknowledge_abuse = true
